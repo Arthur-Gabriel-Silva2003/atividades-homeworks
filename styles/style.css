@@ -1,0 +1,21 @@
+@font-face {
+    font-family: Neo Sans;
+    src: url(Neo\ Sans\ Std\ Regular.otf)
+}
+h1 { 
+    font-family: Neo Sans !important;
+    color:#FFCB00;
+    font-size: 32px;
+}
+h2 {
+    font-family: Neo Sans !important;
+    color: #1C3380;
+    font-size: 24px;
+}
+p {
+    font-family: Neo Sans !important;
+    color: #1C3380;
+    font-size: 20px;
+    
+
+}
